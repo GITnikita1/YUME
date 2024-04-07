@@ -7,7 +7,7 @@
     <title>YUME</title>
 </head>
 <body>
-    qqq
+    
 </body>
 <?php
     
