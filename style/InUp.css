@@ -23,16 +23,6 @@ body {margin: 0px;}
     background: var(--blue);    
 }
 
-.block_picture {
-    display: flex;
-    height: 20rem;
-    width: 20rem;
-    justify-content: center;
-    align-items: center;
-    flex-shrink: 0;
-    float: left;
-}
-
 .logo {
     margin-left: 2.62rem;
     margin-top: 1.5rem;
@@ -116,7 +106,7 @@ body {margin: 0px;}
     line-height: normal;
 }
 
-.email form input {
+.email input {
     padding-left: 6%;
     outline: none;
     width: 85%;
@@ -125,7 +115,7 @@ body {margin: 0px;}
     border: 1px solid #ADADAD;
     background: var(--white);
 }
-.email_in form input {
+.email_in input {
     padding-left: 6%;
     outline: none;
     width: 85%;
@@ -134,7 +124,7 @@ body {margin: 0px;}
     border: 1px solid #ADADAD;
     background: var(--white);
 }
-.password form input {
+.password input {
     padding-left: 6%;
     outline: none;
     width: 85%;
@@ -143,7 +133,7 @@ body {margin: 0px;}
     border: 1px solid #ADADAD;
     background: var(--white);
 }
-.name form input {
+.name input {
     padding-left: 4%;
     outline: none;
     width: 11rem;
@@ -152,7 +142,7 @@ body {margin: 0px;}
     border: 1px solid #ADADAD;
     background: var(--white);
 }
-.number form input {
+.number input {
     padding-left: 4%;
     outline: none;
     width: 11rem;
@@ -161,11 +151,11 @@ body {margin: 0px;}
     border: 1px solid #ADADAD;
     background: var(--white);
 }
-.name form label{
+.name label{
     display: block;
     top: -2em;
 }
-.number form label{
+.number label{
     display: block;
     top: -2em;
 }

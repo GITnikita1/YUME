@@ -21,45 +21,34 @@
                 </div>
                 <div class="about_text">The Programming Forum is an online resource where people interested in programming gather. Here users can communicate with each other, ask questions, share experiences and knowledge.</div>
             </div>
-            <div class="block_picture">
-                <div class="picture"></div>
-            </div>
             <div class="block_frame">
                 <div class="frame">
                     <div class="top_text">
                         <div class="welcome">Welcome to <span class="welcome_devworld">YUME</span></div>
-                        <div class="no_account">No Account? <br><a class="no_account_sign" href="logIn.html">Sign in</a></div>
+                        <div class="no_account">No Account? <br><a class="no_account_sign" href="logIn.php">Sign in</a></div>
                     </div>
                     <div class="sign">Sign up</div>
-                    <div class="email">
-                        <form action="">
+                    <form action="register.php" method="post">
+                        <div class="email">
                             <label for="email">Enter your email address</label>
-                            <input type="email" id="email" placeholder="Email address">
-                        </form>
-                    </div>
-                    <div class="name">
-                        <form action="">
+                            <input type="email" id="email" placeholder="Email address" name="email">
+                        </div>
+                        <div class="name">
                             <label for="name">User name</label>
-                            <input type="text" id="name" placeholder="User name">
-                        </form>
-                    </div>
-                    <div class="number">
-                        <form action="">
+                            <input type="text" id="name" placeholder="User name" name="name">
+                        </div>
+                        <div class="number">
                             <label for="number">Contact Number</label>
-                            <input type="tel" id="number" placeholder="Contact Number">
-                        </form>
-                    </div>
-                    <div class="password">
-                        <form action="">
+                            <input type="tel" id="number" placeholder="Contact Number" name="number">
+                        </div>
+                        <div class="password">
                             <label for="password">Enter your Password</label>
-                            <input type="password" id="password" placeholder="Password">
-                        </form>
-                    </div>
-                    <div class="block_button">
-                        <form action="">
-                            <input id="form-submit" class="button" type="button" value="Sign up">
-                        </form>
-                    </div>
+                            <input type="password" id="password" placeholder="Password" name="pass">
+                        </div>
+                        <div class="block_button">
+                            <button class="button" type="submit">Sign up</button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>

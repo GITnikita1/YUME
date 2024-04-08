@@ -21,33 +21,26 @@
                 </div>
                 <div class="about_text">The Programming Forum is an online resource where people interested in programming gather. Here users can communicate with each other, ask questions, share experiences and knowledge.</div>
             </div>
-            <div class="block_picture">
-                <div class="picture"></div>
-            </div>
             <div class="block_frame">
                 <div class="frame">
                     <div class="top_text">
                         <div class="welcome">Welcome to <span class="welcome_devworld">YUME</span></div>
-                        <div class="no_account">No Account? <br><a class="no_account_sign" href="logUp.html">Sign up</a></div>
+                        <div class="no_account">No Account? <br><a class="no_account_sign" href="logUp.php">Sign up</a></div>
                     </div>
                     <div class="sign">Sign in</div>
-                    <div class="email_in">
-                        <form action="">
+                    <form action="login.php" method="post">
+                        <div class="email_in">
                             <label for="email">Enter your email address</label>
-                            <input type="email" id="email" placeholder="Email address">
-                        </form>
-                    </div>
-                    <div class="password">
-                        <form action="">
+                            <input type="email" id="email" placeholder="Email address" name="email">
+                        </div>
+                        <div class="password">
                             <label for="password">Enter your Password</label>
-                            <input type="password" id="password" placeholder="Password">
-                        </form>
-                    </div>
-                    <div class="block_button">
-                        <form action="">
-                            <input id="form-submit" class="button" type="button" value="Sign in">
-                        </form>
-                    </div>
+                            <input type="password" id="password" placeholder="Password" name="pass">
+                        </div>
+                        <div class="block_button">
+                            <button class="button" type="submit">Sign in</button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
