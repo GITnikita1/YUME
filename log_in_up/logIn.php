@@ -28,7 +28,7 @@
                         <div class="no_account">No Account? <br><a class="no_account_sign" href="logUp.php">Sign up</a></div>
                     </div>
                     <div class="sign">Sign in</div>
-                    <form action="login.php" method="post">
+                    <form action="entry.php" method="post">
                         <div class="email_in">
                             <label for="email">Enter your email address</label>
                             <input type="email" id="email" placeholder="Email address" name="email">
