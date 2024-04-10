@@ -17,9 +17,9 @@
             <div class="block_text">
                 <div class="main_text">
                     <div class="main_big_text">Sign in to</div>
-                    <div class="main_small_text">The world of programming your future</div>
+                    <div class="main_small_text">The world of delicious adventures - the world of a burger shop</div>
                 </div>
-                <div class="about_text">The Programming Forum is an online resource where people interested in programming gather. Here users can communicate with each other, ask questions, share experiences and knowledge.</div>
+                <div class="about_text">Here you will find everything you need for the perfect lunch: juicy beef patties, crisp vegetables, delicious sauces and tender buns made with love and care. Immerse yourself in the world of burgers and plunge into the ocean of pleasure!</div>
             </div>
             <div class="block_frame">
                 <div class="frame">
