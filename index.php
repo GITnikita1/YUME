@@ -8,23 +8,6 @@
     <title>YUME</title>
 </head>
 <body>
-
-
-//foooooooooot START
-
-<div ></div>
-
-//foooooooooot END
-
-<script src="JS/script.js"></script>
-
+    
 </body>
-<?php
-    // $i=0;
-    // for ($k=0; $k < 10; $k++) { 
-    //     echo $i;
-    //     $i++;
-    // }
-?>
-
 </html>
