@@ -9,6 +9,27 @@
     <title>Primary list</title>
 </head>
 <body>
+    <nav>
+        <div class="_logo"><i class="fa-solid fa-face-grin-tongue-squint"></i></div>
+        <div class="strip">
+            <table class="strip_menu">
+                <tr>
+                    <th>Главная</th>
+                    <th>Меню</th>
+                    <th>Карта</th>
+                    <th>О нас</th>
+                    <th><i class="fa-regular fa-moon"></i></th>
+                    <th><i class="fa-solid fa-language"></i></th>
+                    <th><i class="fa-solid fa-basket-shopping"></i></th>
+                </tr>
+            </table>
+        </div>
+    </nav>
+
+    <header>
+        <img src="/img/main_img.png" alt="">
+    </header>
+
     <footer>
         <div class="_upper">
             <div class="_about">
