@@ -134,7 +134,7 @@ img {
 .spine {
     
     margin-block: 20vh 40vh;
-    height: 80vh;
+    height: auto;
     margin-inline: 15%;
     display: grid;
     position: relative;
