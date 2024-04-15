@@ -19,7 +19,7 @@ footer {
     display: grid;
     position: relative;
     justify-content: center;
-    height: 15vh;
+    height: 20vh;
     width: 100%;
     background-color: gray;
     z-index: 10;
@@ -43,11 +43,11 @@ padding: 0.5rem 0;
 }
 
 ._about {
-    margin-block: auto;
+    margin-block: 1rem;
 }
 
 ._socnet {
-    margin-block: auto;
+    margin-block: 1rem;
 }
 
 .fa-brands {
@@ -133,14 +133,14 @@ img {
 
 .spine {
     
-    margin-block: 20vh 40vh;
+    margin-top: 20vh;
     height: auto;
     margin-inline: 15%;
     display: grid;
     position: relative;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(3, auto);
-    grid-gap: 10%;
+    grid-gap: 20rem;
     
 }
 
@@ -148,7 +148,7 @@ img {
 
 .container1 {
     display: grid;
-    height: 60vh;
+    height: 48vh;
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(3, auto);
     grid-gap: 1.5vw;
@@ -159,9 +159,15 @@ img {
 }
 
 .women {
-    background-color: coral;
+    
+    
     grid-column: 1/4;
     grid-row: 1/4;
+    img {
+        object-fit: cover;
+        border-radius: 2.2rem;
+        object-position: 50% 50%;
+    }
 }
 
 .info {
