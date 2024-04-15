@@ -13,7 +13,7 @@ else {
     $result = $conn -> query($sql);
     if ($result -> num_rows > 0) {
         while ($row = $result -> fetch_assoc()) {
-            echo "Добро пожаловать " . $row['email'];
+            header("Location: /main/main.php");
         }
     }
     else {
