@@ -43,20 +43,20 @@
         <div class="container2">
             <h>МЕНЮ</h>
             <div class="position1">
-                <div class="photo1">PHOTO</div>
-                <div class="description1">PAY</div>
+                <div class="photo1"></div>
+                <div class="description1"><p>Бургеры</p></div>
             </div>
             <div class="position2">
-                <div class="photo2">PHOTO</div>
-                <div class="description2">PAY</div>
+                <div class="photo2"></div>
+                <div class="description2"><p>Гарниры</p></div>
             </div>
             <div class="position3">
-                <div class="photo3">PHOTO</div>
-                <div class="description3">PAY</div>
+                <div class="photo3"></div>
+                <div class="description3"><p>Салаты</p></div>
             </div>
             <div class="position4">
-                <div class="photo4">PHOTO</div>
-                <div class="description4">PAY</div>
+                <div class="photo4"></div>
+                <div class="description4"><p>Напитки</p></div>
             </div>
         </div>
     </div>
