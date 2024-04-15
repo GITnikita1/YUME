@@ -13,7 +13,7 @@ if (empty($email) || empty($name) || empty($number) || empty($pass)) {
 else {
     $sql = "INSERT INTO `Users` (email, name, number, pass) VALUES ('$email', '$name', '$number', '$pass')";
     if ($conn -> query($sql) === TRUE) {
-        echo "Успешная регистрация";
+        header("Location: /main/main.php");
     }
     else {
         echo "Ошибка: " . $conn->error;
