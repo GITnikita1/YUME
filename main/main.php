@@ -30,6 +30,39 @@
         <img src="/img/main_img.png" alt="">
     </header>
 
+    <div class="spine">
+        <div class="container1">
+            <div class="women">women</div>
+            <div class="info">
+                <h>А ВОТ ЭТО УЖЕ ИНТЕРЕСНО</h>
+                <p>В нашем ресторане специальное недельное меню, которое не даст вам наскучиться одним и тем же вкусом бургеров.</p>
+                <div class="butn"><p>Узнать подробнее</p></div>
+            </div>
+            <div class="graffiti">graffiti</div>
+        </div>
+        <div class="container2">
+            <h>МЕНЮ</h>
+            <div class="position1">
+                <div class="photo1">PHOTO</div>
+                <div class="description1">PAY</div>
+            </div>
+            <div class="position2">
+                <div class="photo2">PHOTO</div>
+                <div class="description2">PAY</div>
+            </div>
+            <div class="position3">
+                <div class="photo3">PHOTO</div>
+                <div class="description3">PAY</div>
+            </div>
+            <div class="position4">
+                <div class="photo4">PHOTO</div>
+                <div class="description4">PAY</div>
+            </div>
+        </div>
+    </div>
+
+
+
     <footer>
         <div class="_upper">
             <div class="_about">
