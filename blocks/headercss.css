@@ -1,0 +1,41 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+    width: 100%;
+    background-color: black;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    border-bottom: 0.2rem solid white;
+}
+
+._logo {
+    width: 50%;
+    margin-block: auto;
+    text-align: left;
+    .fa-solid {
+        font-size: 5rem;
+        color: white;
+    }
+}
+
+._strip {
+    width: 50%;
+    margin-block: auto;
+    text-align: right;
+    justify-content: right;
+}
+
+.strip_menu{
+    border-collapse: separate;
+    border-spacing: 2rem;
+    font-size: 1.5rem;
+    .fa-regular {
+        font-size: 2em;
+    }
+    .fa-solid {
+        font-size: 2rem;
+    }
+}

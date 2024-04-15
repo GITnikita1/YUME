@@ -1,0 +1,51 @@
+footer {
+    display: grid;
+    position: relative;
+    justify-content: center;
+    height: 20vh;
+    width: 100%;
+    background-color: gray;
+    z-index: 10;
+}
+
+th {
+    color: white;
+}
+
+table {
+border-collapse: separate;
+border-spacing: 1rem 0.5rem;
+}
+
+th {
+padding: 0.5rem 0;
+}
+
+._upper {
+    display: flex;
+}
+
+._about {
+    margin-block: 1rem;
+}
+
+._socnet {
+    margin-block: 1rem;
+}
+
+.fa-brands {
+    font-size: 2.5rem;
+}
+
+.fa-regular {
+    font-size: 2.5rem;
+} 
+
+.fa-solid {
+    font-size: 2.5rem;
+}
+
+._down p{
+    text-align: right;
+    color: white;
+}

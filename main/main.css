@@ -15,103 +15,15 @@ body {
 
 /* footer START */
 
-footer {
-    display: grid;
-    position: relative;
-    justify-content: center;
-    height: 20vh;
-    width: 100%;
-    background-color: gray;
-    z-index: 10;
-}
 
-th {
-    color: white;
-}
-
-table {
-border-collapse: separate;
-border-spacing: 1rem 0.5rem;
-}
-
-th {
-padding: 0.5rem 0;
-}
-
-._upper {
-    display: flex;
-}
-
-._about {
-    margin-block: 1rem;
-}
-
-._socnet {
-    margin-block: 1rem;
-}
-
-.fa-brands {
-    font-size: 2.5rem;
-}
-
-.fa-regular {
-    font-size: 2.5rem;
-} 
-
-.fa-solid {
-    font-size: 2.5rem;
-}
-
-._down p{
-    text-align: right;
-    color: white;
-}
 
 /* footer END */
 
 /* nav START */
 
-nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 12vh;
-    width: 100%;
-    background-color: black;
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    border-bottom: 0.2rem solid white;
-}
 
-._logo {
-    width: 50%;
-    margin-block: auto;
-    text-align: left;
-    .fa-solid {
-        font-size: 5rem;
-        color: white;
-    }
-}
 
-._strip {
-    width: 50%;
-    margin-block: auto;
-    text-align: right;
-    justify-content: right;
-}
 
-.strip_menu{
-    border-collapse: separate;
-    border-spacing: 2rem;
-    font-size: 1.5rem;
-    .fa-regular {
-        font-size: 2em;
-    }
-    .fa-solid {
-        font-size: 2rem;
-    }
-}
 
 /* nav END */
 
@@ -159,8 +71,6 @@ img {
 }
 
 .women {
-    
-    
     grid-column: 1/4;
     grid-row: 1/4;
     img {
