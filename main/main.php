@@ -32,7 +32,7 @@
 
     <div class="spine">
         <div class="container1">
-            <div class="women">women</div>
+            <div class="women"></div>
             <div class="info">
                 <h>А ВОТ ЭТО УЖЕ ИНТЕРЕСНО</h>
                 <p>В нашем ресторане специальное недельное меню, которое не даст вам наскучиться одним и тем же вкусом бургеров.</p>

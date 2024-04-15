@@ -22,7 +22,7 @@ footer {
     height: 15vh;
     width: 100%;
     background-color: gray;
-    z-index: 4;
+    z-index: 10;
 }
 
 th {
@@ -134,7 +134,7 @@ img {
 .spine {
     
     margin-block: 20vh 40vh;
-    height: 80vh;
+    height: auto;
     margin-inline: 15%;
     display: grid;
     position: relative;
