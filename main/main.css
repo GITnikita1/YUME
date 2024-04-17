@@ -2,11 +2,6 @@ html ::-webkit-scrollbar {
     width: 0px;
 }
 
-body {
-    background-color: black;
-    margin: 0;
-}
-
 /* header START */
 
 header {
