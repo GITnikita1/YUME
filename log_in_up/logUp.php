@@ -49,9 +49,11 @@
                             <button class="button" type="submit">Sign up</button>
                         </div>
                     </form>
+                    <div class="msg hide" id="flag">0</div>
                 </div>
             </div>
         </div>
     </div>
+    <script type="module" src="/JS/fieldsUp.js"></script>
 </body>
 </html>
