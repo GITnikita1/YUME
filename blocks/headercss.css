@@ -39,3 +39,7 @@ nav {
         font-size: 2rem;
     }
 }
+
+a {
+    outline: none;
+}
