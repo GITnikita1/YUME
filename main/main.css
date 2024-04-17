@@ -1,31 +1,6 @@
-html {
-    display: block;
-    overflow: scroll;
-    overflow-x: hidden;
-     }
-    ::-webkit-scrollbar {
+html ::-webkit-scrollbar {
     width: 0px;
-    background: transparent;
 }
-
-body {
-    background-color: black;
-    margin: 0;
-}
-
-/* footer START */
-
-
-
-/* footer END */
-
-/* nav START */
-
-
-
-
-
-/* nav END */
 
 /* header START */
 

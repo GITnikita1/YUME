@@ -44,10 +44,10 @@
             </div>
         </div>
     </div>
+
+
+    
     <?php include '..\blocks\footer.php'; ?>
 
-
-
-    <script src="/JS/main.js"></script>
 </body>
 </html>
