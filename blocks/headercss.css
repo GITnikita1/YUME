@@ -41,12 +41,15 @@ nav {
 }
 
 a {
-    outline: none;
+    text-decoration: none;
+    color: white;
 }
+
 body {
     background-color: black;
     margin: 0;
 }
+
 html ::-webkit-scrollbar {
     width: 0px;
 }
