@@ -1,4 +1,4 @@
-footer {
+/* footer {
     display: grid;
     position: relative;
     justify-content: center;
@@ -6,19 +6,24 @@ footer {
     width: 100%;
     background-color: gray;
     z-index: 10;
+} */
+footer {
+    display: grid;
+    position: relative;
+    width: 100%;
+    height: auto;   
+    background: gray;
+    justify-content: center;
 }
 
 th {
     color: white;
+    padding: 0.5rem 0;
 }
 
 table {
-border-collapse: separate;
-border-spacing: 1rem 0.5rem;
-}
-
-th {
-padding: 0.5rem 0;
+    border-collapse: separate;
+    border-spacing: 1rem 0.5rem;
 }
 
 ._upper {

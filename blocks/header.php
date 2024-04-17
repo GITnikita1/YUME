@@ -4,7 +4,6 @@
     <div class="strip">
         <table class="strip_menu">
             <tr>
-                <!-- <th class="main"><a href="../main/main.php">Главная</a></th> -->
                 <th class="menu"><a href="../menu/menu.php">Меню</a></th>
                 <th class="map"><a href="../map/map.php">Карта</a></th>
                 <th class="about_us"><a href="../about_us/about_us.php">О нас</a></th>

@@ -247,3 +247,25 @@ label {
     font-size: 0.8125rem;
     font-weight: 300;
 }
+
+/* ------------------------------- */
+.msg {
+    margin: 20px 0;
+}
+
+.msg-error {
+    margin-left: 10%;
+    color: #ff0000;
+}
+
+.msg-success {
+    margin-left: 10%;
+    color: #24be19;
+}
+
+.hide {
+    opacity: 0;
+}
+.display-hide {
+    display: none;
+}
