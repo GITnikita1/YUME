@@ -11,37 +11,44 @@
 <body>
     <?php include "..\blocks\header.php"; ?>
     <header>
-        <img src="/img/main_img.png" alt="">
+        <img src="/img/main_img.png" alt="" width="100%">
     </header>
 
     <div class="spine">
         <div class="container1">
-            <div class="women"><img src="/main/women1.jpg" alt=""></div>
-            <div class="info">
-                <h>А ВОТ ЭТО УЖЕ ИНТЕРЕСНО</h>
+            <div class="box women"><img src="/main/women1.jpg" alt="" width="100%" height="100%"></div>
+            <div class="box info">
+                <h2>А ВОТ ЭТО УЖЕ ИНТЕРЕСНО</h2>
                 <p>В нашем ресторане специальное недельное меню, которое не даст вам наскучиться одним и тем же вкусом бургеров.</p>
                 <div class="butn"><p>Узнать подробнее</p></div>
             </div>
-            <div class="graffiti">graffiti</div>
         </div>
+        <h3>МЕНЮ</h3>
         <div class="container2">
-            <h>МЕНЮ</h>
-            <div class="position1">
-                <div class="photo1"></div>
-                <div class="description1"><p>Бургеры</p></div>
+            <div class="position one">
+                <div class="photo"></div>
+                <div class="description"><p>Бургеры</p></div>
             </div>
-            <div class="position2">
-                <div class="photo2"></div>
-                <div class="description2"><p>Гарниры</p></div>
+            <div class="position two">
+                <div class="photo"></div>
+                <div class="description"><p>Гарниры</p></div>
             </div>
-            <div class="position3">
-                <div class="photo3"></div>
-                <div class="description3"><p>Салаты</p></div>
+            <div class="position three">
+                <div class="photo"></div>
+                <div class="description"><p>Салаты</p></div>
             </div>
-            <div class="position4">
-                <div class="photo4"></div>
-                <div class="description4"><p>Напитки</p></div>
+            <div class="position four">
+                <div class="photo"></div>
+                <div class="description"><p>Напитки</p></div>
             </div>
+        </div>
+        <h3>ЗАКАЗЫ</h3>
+        <div class="container3">
+            <div class="phase1">
+                <div class="order"></div>
+                <div class="burger"></div>
+            </div>
+            <div class="minimap"></div>
         </div>
     </div>
 
