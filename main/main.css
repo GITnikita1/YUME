@@ -1,11 +1,5 @@
-html {
-    display: block;
-    overflow: scroll;
-    overflow-x: hidden;
-     }
-    ::-webkit-scrollbar {
+html ::-webkit-scrollbar {
     width: 0px;
-    background: transparent;
 }
 
 body {
