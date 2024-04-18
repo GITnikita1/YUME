@@ -2,7 +2,7 @@
 <footer>
     <div class="_upper">
         <div class="_about">
-            <table>
+            <table class="table">
                 <tr>
                     <th style="text-align: left;">О нас</th>
                     <th>Заказ</th>

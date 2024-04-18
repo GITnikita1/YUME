@@ -6,6 +6,7 @@
     --green: #C7F465;
     --white: #FFFFFF;
     --black: #1D1D1D;
+    --red: #FF3535;
   }
   
 
@@ -35,7 +36,7 @@ html ::-webkit-scrollbar {
 .info {
     display: flex;
     flex-direction: column;
-    background-color: var(--pink);
+    background-color: var(--red);
 }
 
 h2 {
