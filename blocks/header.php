@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../blocks/headercss.css">
 <nav>
-    <div class="_logo"><a href="../main/main.php"><i class="fa-solid fa-face-grin-tongue-squint"></i></a></div>
+    <div class="_logo"><a href="../main/main.php"><img src="/main/image.png" alt=""></a></div>
     <div class="strip">
         <table class="strip_menu">
             <tr>
