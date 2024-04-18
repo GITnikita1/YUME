@@ -26,19 +26,19 @@
         <h3>МЕНЮ</h3>
         <div class="container2">
             <div class="position">
-                <div class="photo1"></div>
+                <div class="photo1"> <img src="Style_Double.png" width="100%"></div>
                 <div class="description"><p>Бургеры</p></div>
             </div>
             <div class="position">
-                <div class="photo2"></div>
+                <div class="photo2"><img src="poteto_freeeee.png" width="100%"></div>
                 <div class="description"><p>Гарниры</p></div>
             </div>
             <div class="position">
-                <div class="photo3"></div>
-                <div class="description"><p>Салаты</p></div>
+                <div class="photo3"><img src="cookies.png" width="100%"></div>
+                <div class="description"><p>Десерты</p></div>
             </div>
             <div class="position">
-                <div class="photo4"></div>
+                <div class="photo4"><img src="sodawater.png" width="100%"></div>
                 <div class="description"><p>Напитки</p></div>
             </div>
         </div>
