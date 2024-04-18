@@ -37,6 +37,7 @@ html ::-webkit-scrollbar {
     display: flex;
     flex-direction: column;
     background-color: var(--red);
+    padding: 2rem;
 }
 
 h2 {
@@ -54,16 +55,22 @@ p {
 }
 
 .butn{
+    display: flex;
+    text-align: center;
+    justify-content: center;
     background-color: white;
     border-radius: 0.75rem;
-    margin-inline: 22.5%;
+    height: 3rem;
+    margin-inline: 15%;
 
     p {
-        font-size: 36px;
+        text-align: center;
+        justify-content: center;
+        margin: auto;
+        font-size: 30px;
         font-weight: 200;
         line-height: 1.1;
         color: black;
-        text-align: center;
     }
 }
 
@@ -135,6 +142,7 @@ h3 {
 }
 
 .container3 {
+    height: auto;
     margin-bottom: 10rem;
     display: grid;
 	grid-template-columns: repeat(2, 1fr);
@@ -164,13 +172,14 @@ h3 {
 }
 
 .minimap {
-    width: 100%;
+    object-fit: fill;
     border-radius: 0.75rem;
-    height: 100%;
-    background-color: brown;
+    width: 100%;
+    height: 30rem;
 }
 
 .phase1 {
+    height: 99.9%;
     display: flex;
     flex-direction: column;
     gap: 20px;
