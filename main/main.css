@@ -1,3 +1,14 @@
+:root {
+    --yellow: #E0E300;
+    --pink: #FF598F;
+    --orange: #FD8A5E;
+    --blue: #01DDDD;
+    --green: #C7F465;
+    --white: #FFFFFF;
+    --black: #000000;
+  }
+  
+
 html ::-webkit-scrollbar {
     width: 0px;
 }
@@ -24,7 +35,7 @@ html ::-webkit-scrollbar {
 .info {
     display: flex;
     flex-direction: column;
-    background-color: violet;
+    background-color: var(--pink);
 }
 
 h2 {
@@ -74,17 +85,35 @@ h3 {
 
 .position {
     display: flex;
+    height: 10rem;
     flex-direction: column;
     height: 100%;
     width: 100%;
 }
 
-.photo {
+.photo1 {
+    width: 100%;
+    height: 12rem;
+    border-radius: 0.75rem;    
+    background-color: var(--pink);
+}
+.photo2 {
     width: 100%;
     height: 90%;
-    border-radius: 0.75rem;
-    background-color: aqua;
-    
+    border-radius: 0.75rem;    
+    background-color: var(--yellow);
+}
+.photo3 {
+    width: 100%;
+    height: 90%;
+    border-radius: 0.75rem;    
+    background-color: var(--blue);
+}
+.photo4 {
+    width: 100%;
+    height: 90%;
+    border-radius: 0.75rem;    
+    background-color: var(--orange);
 }
 
 .description {
@@ -101,6 +130,7 @@ h3 {
 }
 
 .container3 {
+    margin-bottom: 10rem;
     display: grid;
 	grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
@@ -108,15 +138,24 @@ h3 {
 }
 
 .order {
-    height: 10rem;
+    height: 100%;
     border-radius: 0.75rem;
-    background-color: blue;
+    background-color: var(--green);
+    h2 {
+        color: #000000;
+    }
+    p {
+        color: #000000;
+    }
 }
 
 .burger {
-    height: 10rem;
     border-radius: 0.75rem;
-    background-color: aqua;
+    background-color: var(--yellow);
+
+    img {
+        border-radius: 0.75rem;
+    }
 }
 
 .minimap {
