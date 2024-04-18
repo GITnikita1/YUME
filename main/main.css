@@ -130,6 +130,7 @@ h3 {
 }
 
 .container3 {
+    margin-bottom: 10rem;
     display: grid;
 	grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
@@ -137,15 +138,24 @@ h3 {
 }
 
 .order {
-    height: 10rem;
+    height: 100%;
     border-radius: 0.75rem;
     background-color: var(--green);
+    h2 {
+        color: #000000;
+    }
+    p {
+        color: #000000;
+    }
 }
 
 .burger {
-    height: 10rem;
     border-radius: 0.75rem;
     background-color: var(--yellow);
+
+    img {
+        border-radius: 0.75rem;
+    }
 }
 
 .minimap {

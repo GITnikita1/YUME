@@ -45,8 +45,12 @@
         <h3>ЗАКАЗЫ</h3>
         <div class="container3">
             <div class="phase1">
-                <div class="order"></div>
-                <div class="burger"></div>
+                <div class="order">
+                    <h2>А ВОТ ЭТО УЖЕ ИНТЕРЕСНО</h2>
+                    <p>В нашем ресторане специальное недельное меню, которое не даст вам наскучиться одним и тем же вкусом бургеров.</p>
+                    <div class="butn"><p>Узнать подробнее</p></div>
+                </div>
+                <div class="burger"><img src="/main/burger_on_hand.jpg" alt="" width="100%"></div>
             </div>
             <div class="minimap"></div>
         </div>
