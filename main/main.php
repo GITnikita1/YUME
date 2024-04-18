@@ -26,7 +26,7 @@
         <h3>МЕНЮ</h3>
         <div class="container2">
             <div class="position one">
-                <div class="photo"></div>
+                <div class="photo"><img src="/img/main_img.png" alt="" width="100%"></div>
                 <div class="description"><p>Бургеры</p></div>
             </div>
             <div class="position two">
