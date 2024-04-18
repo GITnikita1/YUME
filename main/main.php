@@ -25,20 +25,20 @@
         </div>
         <h3>МЕНЮ</h3>
         <div class="container2">
-            <div class="position one">
-                <div class="photo"><img src="/img/main_img.png" alt="" width="100%"></div>
+            <div class="position">
+                <div class="photo1"></div>
                 <div class="description"><p>Бургеры</p></div>
             </div>
-            <div class="position two">
-                <div class="photo"></div>
+            <div class="position">
+                <div class="photo2"></div>
                 <div class="description"><p>Гарниры</p></div>
             </div>
-            <div class="position three">
-                <div class="photo"></div>
+            <div class="position">
+                <div class="photo3"></div>
                 <div class="description"><p>Салаты</p></div>
             </div>
-            <div class="position four">
-                <div class="photo"></div>
+            <div class="position">
+                <div class="photo4"></div>
                 <div class="description"><p>Напитки</p></div>
             </div>
         </div>
