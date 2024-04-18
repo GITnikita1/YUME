@@ -151,6 +151,7 @@ h3 {
 }
 
 .order {
+    padding: 2rem;
     height: 100%;
     border-radius: 0.75rem;
     background-color: var(--green);
@@ -159,6 +160,10 @@ h3 {
     }
     p {
         color: #000000;
+        margin-bottom: 0;
+    }
+    .btn {
+        margin-top: 1.5rem;
     }
 }
 
@@ -184,4 +189,9 @@ h3 {
     flex-direction: column;
     gap: 20px;
     width: 100%;
+}
+
+.star {
+    font-size: small;
+    margin-bottom: 1.5rem;
 }
