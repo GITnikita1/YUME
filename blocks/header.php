@@ -10,6 +10,7 @@
                 <th><i class="fa-regular fa-moon"></i></th>
                 <th><i class="fa-solid fa-language"></i></th>
                 <th class="basket"><a href="../basket/basket.php"><i class="fa-solid fa-basket-shopping"></i></a></th>
+                <th></th>
             </tr>
         </table>
     </div>

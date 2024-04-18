@@ -27,7 +27,7 @@ body {margin: 0px;}
     margin-left: 2.62rem;
     margin-top: 1.5rem;
     color: var(--white);
-    font-family: Poppins;
+    font-family: Montserrat;
     font-size: 1.25rem;
     font-style: normal;
     font-weight: 600;
@@ -61,7 +61,7 @@ body {margin: 0px;}
 }
 .welcome {
     color: var(--black);
-    font-family: Poppins;
+    font-family: Montserrat;
     font-size: 1.1rem;
     font-style: normal;
     font-weight: 500;
@@ -70,17 +70,17 @@ body {margin: 0px;}
 }
 .welcome_devworld {
     color: var(--blue);
-    font-family: Poppins;
+    font-family: Montserrat;
     font-size: 1.1rem;
     font-style: normal;
-    font-weight: 900;
+    font-weight: 700;
     line-height: normal;
 }
 .no_account {
     margin-left: 65%;
     margin-top: 2%;
     color: #8D8D8D;
-    font-family: Poppins;
+    font-family: Montserrat;
     font-size: 0.8125rem;
     font-style: normal;
     font-weight: 400;
@@ -88,7 +88,7 @@ body {margin: 0px;}
 }
 .no_account_sign {
     color: var(--blue);
-    font-family: Poppins;
+    font-family: Montserrat;
     font-size: 0.8125rem;
     font-style: normal;
     font-weight: 400;
@@ -99,10 +99,10 @@ body {margin: 0px;}
 .sign {
     padding-left: 10%;
     color: var(--black);
-    font-family: Poppins;
+    font-family: Montserrat;
     font-size: 3.4375rem;
     font-style: normal;
-    font-weight: 900;
+    font-weight: 700;
     line-height: normal;
 }
 
@@ -166,7 +166,7 @@ body {margin: 0px;}
 .number:hover input {border: 1px solid var(--blue);}
 label {
     color: var(--black);
-    font-family: Poppins;
+    font-family: Montserrat;
     font-size: 1rem;
     font-style: normal;
     font-weight: 500;
@@ -174,7 +174,7 @@ label {
 }
 ::placeholder {
     color: #808080;
-    font-family: Poppins;
+    font-family: Montserrat;
     font-size: 0.875rem;
     font-style: normal;
     font-weight: 300;
@@ -208,7 +208,7 @@ label {
     background: var(--blue);
     box-shadow: 0px 4px 19px 0px rgba(119, 147, 65, 0.30);
     color: var(--white);
-    font-family: Poppins;
+    font-family: Montserrat;
     font-size: 1rem;
     font-style: normal;
     font-weight: 500;
@@ -231,7 +231,7 @@ label {
     height: 5.4375rem;
     flex-shrink: 0;
     color: var(--white);
-    font-family: Poppins;
+    font-family: Montserrat;
     font-style: normal;
     line-height: normal;
 }
