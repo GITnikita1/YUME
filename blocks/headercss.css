@@ -1,3 +1,9 @@
+:root{
+    --background: #1D1D1D;
+    --footer: #D6D6D6;
+    --color: black;
+}
+
 nav {
     display: flex;
     justify-content: center;
