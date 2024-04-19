@@ -13,10 +13,13 @@
   align-items: center;
   justify-content: center;
   padding: 10%;
-  background: var(--white);
+  /* background: var(--black); */
+  background-repeat: no-repeat;
+  
 }
-
 .In_Up {
+  position: relative;
+  z-index: 1;
   border-radius: 20px;
   padding: 2rem;
   background-color: var(--green);
@@ -48,4 +51,16 @@
 
 .text {
   text-align: center;
+}
+
+.img_index {
+  position: absolute;
+  z-index: 2;
+}
+
+.img_burger {
+
+}
+.img_poteto {
+
 }
