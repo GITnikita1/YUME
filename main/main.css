@@ -196,3 +196,22 @@ h3 {
     font-size: small;
     margin-bottom: 1.5rem;
 }
+
+.last_pre {
+    display: flex;
+    flex-direction: row;
+    height: 25rem;
+    width: 100%;
+}
+
+.left {
+    height: 100%;
+    width: 60%;
+    background-color: #01DDDD;
+}
+
+.right {
+    height: 100%;
+    width: 40%;
+    background-color: #C7F465;
+}

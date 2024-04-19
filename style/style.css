@@ -55,8 +55,3 @@
 .text {
   text-align: center;
 }
-
-.img_index {
-  position: absolute;
-  z-index: 2;
-}
