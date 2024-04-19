@@ -9,6 +9,8 @@
 </head>
 <body class="body">
     <div class="In_Up">
+        <img src="/img/burger.png" class="img_index img_burger">
+        <img src="/img/poteto.png" class="img_index img_poteto">
         <div id="blockIn" class="blockTwo">
             <h2 class="heading">ВХОД</h2>
             <p class="text">Если у Вас уже есть аккаунт, то скорее залетай!</p>
