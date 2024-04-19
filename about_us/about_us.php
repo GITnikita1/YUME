@@ -50,8 +50,8 @@
     </div>
 
     <div class="last">
-        <div class="left2"><img src="/about_us/potato7.jpg" alt="potato7"></div>    
-        <div class="right2"><img src="/about_us/burgerParts.jpg" alt="burgerParts"></div>
+        <div class="left2"><img src="/about_us/potato7.jpg" alt="potato7" width="100%" height="100%"></div>    
+        <div class="right2"><img src="/about_us/burgerParts.jpg" alt="burgerParts" width="100%" height="100%"></div>
     </div>
 
     <?php include '..\blocks\footer.php'; ?>

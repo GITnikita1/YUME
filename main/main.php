@@ -58,8 +58,8 @@
         </div>
     </div>
     <div class="last_pre">
-            <div class="left"><img src="/about_us/potato7.jpg" alt="potatoBlue"></div>
-            <div class="right"><img src="/about_us/burgerParts.jpg" alt="burgerPink"></div>
+            <div class="left"><img src="/about_us/potato7.jpg" alt="potatoBlue" width="100%" height="100%"></div>
+            <div class="right"><img src="/about_us/burgerParts.jpg" alt="burgerPink" width="100%" height="100%"></div>
     </div>
 
 
