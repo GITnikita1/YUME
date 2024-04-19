@@ -58,8 +58,8 @@
         </div>
     </div>
     <div class="last_pre">
-            <div class="left"></div>
-            <div class="right"></div>
+            <div class="left"><img src="/main/potatoBlue.jpg" alt="potatoBlue"></div>
+            <div class="right"><img src="/main/burgerPink.jpg" alt="burgerPink"></div>
     </div>
 
 
