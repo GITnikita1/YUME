@@ -13,10 +13,9 @@
   align-items: center;
   justify-content: center;
   padding: 10%;
-  /* background: var(--black); */
-  background-repeat: no-repeat;
-  
+  background: var(--black);
 }
+
 .In_Up {
   position: relative;
   z-index: 1;
