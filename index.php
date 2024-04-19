@@ -6,11 +6,13 @@
     <link rel="shortcut icon" href="/img/BurgerIcon.ico"/>
     <link rel="stylesheet" href="/style/style.css">
     <title>YUME</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:wght@300&display=swap" rel="stylesheet">
 </head>
 <body class="body">
+    <img src="/img/burgerBackground.jpg" alt="background" class="imgBurger">
     <div class="In_Up">
-        <img src="/img/burger.png" class="img_index img_burger">
-        <img src="/img/poteto.png" class="img_index img_poteto">
         <div id="blockIn" class="blockTwo">
             <h2 class="heading">ВХОД</h2>
             <p class="text">Если у Вас уже есть аккаунт, то скорее залетай!</p>
