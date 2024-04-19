@@ -2,6 +2,13 @@
     --background: #1D1D1D;
     --footer: #D6D6D6;
     --color: black;
+    --yellow: #E0E300;
+    --pink: #FF598F;
+    --orange: #FD8A5E;
+    --blue: #01DDDD;
+    --green: #C7F465;
+    --white: #FFFFFF;
+    --black: #000000;
 }
 
 nav {
@@ -10,7 +17,7 @@ nav {
     align-items: center;
     height: 7rem;
     width: 100%;
-    background-color: #1D1D1D;
+    background-color: var(--background);
     position: sticky;
     top: 0;
     z-index: 10;
@@ -22,7 +29,7 @@ nav {
     text-align: left;
     .fa-solid {
         font-size: 5rem;
-        color: white;
+        color: var(--white);
     }
 }
 
@@ -38,25 +45,43 @@ nav {
     border-spacing: 2rem;
     font-size: 1.5rem;
     .fa-regular {
-        color: white;
+        color: var(--white);
         font-size: 2em;
     }
     .fa-solid {
-        color: white;
+        color: var(--white);
         font-size: 2rem;
     }
 }
 
 a {
     text-decoration: none;
-    color: white;
+    color: var(--white);
 }
 
 body {
-    background-color: #1D1D1D;
+    background-color: var(--background);
     margin: 0;
 }
 
 html ::-webkit-scrollbar {
     width: 0px;
+}
+
+.user {
+    color: var(--white);
+    border: var(--white) 1px solid;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.user:hover {
+    color: var(--blue);
+    border: var(--blue) 1px solid;
+    cursor: pointer;
+}
+
+.string:hover {
+    color: var(--blue);
+    cursor: pointer;
 }
