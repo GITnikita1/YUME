@@ -23,7 +23,7 @@
                 <h3>БУРГЕРЫ</h3>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="YUMEburger1.png"></div>
                         <div class="cost"><p>200₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ЯМИ БУРГЕР</h4>
@@ -33,7 +33,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="Style_Double2.png"></div>
                         <div class="cost"><p>250₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ДВОЙНОЙ СТИЛЬНЫЙ</h4>
@@ -43,7 +43,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="Just_bureger3.png"></div>
                         <div class="cost"><p>120₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ПРОСТО БУРГЕР</h4>
@@ -53,7 +53,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="Style_burger4.png"></div>
                         <div class="cost"><p>180₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>СТИЛЬНЫЙ БУРГЕР</h4>
@@ -63,7 +63,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="Juicy_vibe5.png"></div>
                         <div class="cost"><p>270₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>СОЧНЫЙ ВАЙБ</h4>
@@ -73,7 +73,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="ItalianoMilanoBurger6.png"></div>
                         <div class="cost"><p>150₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ИТАЛЬЯНО МИЛАНО БУРГЕР</h4>
@@ -97,7 +97,7 @@
                 <h3>ГАРНИРЫ</h3>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="poteto_freeeee8.png"></div>
                         <div class="cost"><p>100₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>КАРТОШКА ФРИИИИИ</h4>
@@ -141,7 +141,7 @@
                 <h3>ДЕСЕРТЫ</h3>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="cookies12.png"></div>
                         <div class="cost"><p>140₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ШОКОЛАДНЫЕ ПЕЧЕНЬЯ</h4>
@@ -185,7 +185,7 @@
                 <h3>НАПИТКИ</h3>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="sodawater16.png"></div>
                         <div class="cost"><p>100₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ДОБРЫЙ НАПИТОК</h4>
