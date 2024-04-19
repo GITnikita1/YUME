@@ -23,7 +23,7 @@
                 <h3>БУРГЕРЫ</h3>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="YUMEburger1.png"></div>
+                        <div class="picture" style="background-color: #FD8A5E;"><img src="YUMEburger1.png"></div>
                         <div class="cost"><p>200₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ЯМИ БУРГЕР</h4>
@@ -43,7 +43,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="Just_bureger3.png"></div>
+                        <div class="picture" style="background-color: #FF598F"><img src="Just_bureger3.png"></div>
                         <div class="cost"><p>120₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ПРОСТО БУРГЕР</h4>
@@ -63,7 +63,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="Juicy_vibe5.png"></div>
+                        <div class="picture" style="background-color: #C7F465"><img src="Juicy_vibe5.png"></div>
                         <div class="cost"><p>270₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>СОЧНЫЙ ВАЙБ</h4>
@@ -83,7 +83,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="SecretBurger7.png" alt=""></div>
+                        <div class="picture" style="background-color: #FF598F"><img src="SecretBurger7.png" alt=""></div>
                         <div class="cost"><p>290₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>СЕКРЕТНЫЙ БУРГЕР</h4>
@@ -97,7 +97,7 @@
                 <h3>ГАРНИРЫ</h3>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="poteto_freeeee8.png"></div>
+                        <div class="picture" style="background-color: #FD8A5E"><img src="poteto_freeeee8.png"></div>
                         <div class="cost"><p>100₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>КАРТОШКА ФРИИИИИ</h4>
@@ -107,7 +107,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="nuggets9.png"></div>
+                        <div class="picture" style="background-color: #FF598F"><img src="nuggets9.png"></div>
                         <div class="cost"><p>140₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>НАГГЕТСЫ</h4>
@@ -127,7 +127,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="nachos11.png"></div>
+                        <div class="picture" style="background-color: #C7F465"><img src="nachos11.png"></div>
                         <div class="cost"><p>120₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>НАЧЧОС МЕКСИКАНО</h4>
@@ -141,7 +141,7 @@
                 <h3>ДЕСЕРТЫ</h3>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="cookies12.png"></div>
+                        <div class="picture" style="background-color: #FF598F"><img src="cookies12.png"></div>
                         <div class="cost"><p>140₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ШОКОЛАДНЫЕ ПЕЧЕНЬЯ</h4>
@@ -161,7 +161,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="Cake14.png"></div>
+                        <div class="picture" style="background-color: #C7F465"><img src="Cake14.png"></div>
                         <div class="cost"><p>130₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>КЛУБНИЧНОЕ ПИРОЖНОЕ</h4>
@@ -185,7 +185,7 @@
                 <h3>НАПИТКИ</h3>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="sodawater16.png"></div>
+                        <div class="picture" style="background-color: #FD8A5E"><img src="sodawater16.png"></div>
                         <div class="cost"><p>100₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ДОБРЫЙ НАПИТОК</h4>
@@ -215,7 +215,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"><img src="Juice19.png"></div>
+                        <div class="picture" style="background-color: #C7F465"><img src="Juice19.png"></div>
                         <div class="cost"><p>110₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ФРУКТОВЫЙ СОК</h4>
