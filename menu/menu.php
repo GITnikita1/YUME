@@ -83,7 +83,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="SecretBurger7.png" alt=""></div>
                         <div class="cost"><p>290₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>СЕКРЕТНЫЙ БУРГЕР</h4>
@@ -107,7 +107,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="nuggets9.png"></div>
                         <div class="cost"><p>140₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>НАГГЕТСЫ</h4>
@@ -117,7 +117,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="CheeseRing10.png"></div>
                         <div class="cost"><p>160₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>СЫЫЫЫРНЫЕ КОЛЬЦА</h4>
@@ -127,7 +127,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="nachos11.png"></div>
                         <div class="cost"><p>120₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>НАЧЧОС МЕКСИКАНО</h4>
@@ -151,7 +151,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="IceCream13.png"></div>
                         <div class="cost"><p>100₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>МОРОЖЕННОЕ</h4>
@@ -161,7 +161,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="Cake14.png"></div>
                         <div class="cost"><p>130₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>КЛУБНИЧНОЕ ПИРОЖНОЕ</h4>
@@ -171,7 +171,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="Makarons15.png"></div>
                         <div class="cost"><p>150₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>МАКАРОНЫ</h4>
@@ -195,7 +195,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="milkCocktail17.png"></div>
                         <div class="cost"><p>160₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>МОЛОЧНЫЙ КОКТЕЙЛЬ</h4>
@@ -205,7 +205,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="water18.png"></div>
                         <div class="cost"><p>80₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ПИТЬЕВАЯ ВОДА</h4>
@@ -215,7 +215,7 @@
                 </div>
                 <div class="box">
                     <div class="item">
-                        <div class="picture"></div>
+                        <div class="picture"><img src="Juice19.png"></div>
                         <div class="cost"><p>110₽</p><div class="btn"><p>+</p></div></div>
                     </div>
                     <h4>ФРУКТОВЫЙ СОК</h4>
