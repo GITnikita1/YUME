@@ -1,17 +1,14 @@
-/* footer {
-    display: grid;
-    position: relative;
-    justify-content: center;
-    height: 20vh;
-    width: 100%;
-    background-color: gray;
-    z-index: 10;
-} */
-
 :root{
     --background: #1D1D1D;
-    --footer: white;
+    --footer: #D6D6D6;
     --color: black;
+    --yellow: #E0E300;
+    --pink: #FF598F;
+    --orange: #FD8A5E;
+    --blue: #01DDDD;
+    --green: #C7F465;
+    --white: #FFFFFF;
+    --black: #000000;
 }
 
 footer {
@@ -68,4 +65,11 @@ table {
 
 .table {
     font-size: 1.35rem;
+}
+
+.strings {
+    color: var(--black);
+}
+.strings:hover {
+    cursor: pointer;
 }

@@ -4,14 +4,14 @@
         <div class="_about">
             <table class="table">
                 <tr>
-                    <th style="text-align: left;">О нас</th>
-                    <th>Заказ</th>
-                    <th>Адреса</th>
-                    <th>Меню</th>
-                    <th>Связаться с нами</th>
+                    <th style="text-align: left;"><a class="strings" href="../about_us/about_us.php">О нас</a></th>
+                    <th><a class="strings" href="../basket/basket.php">Заказ</a></th>
+                    <th><a class="strings" href="../map/map.php">Адреса</a></th>
+                    <th><a class="strings" href="../menu/menu.php">Меню</a></th>
+                    <th><a class="strings" href="#">Связаться с нами</a></th>
                 </tr>
                 <tr>
-                    <th colspan="3" style="text-align: left;">Политика конфиденциальности</th>
+                    <th colspan="3" style="text-align: left;"><a class="strings" href="#">Политика конфиденциальности</a></th>
                 </tr>
             </table>
         </div>
