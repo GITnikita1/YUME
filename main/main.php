@@ -57,6 +57,11 @@
             <div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/org/kazanskaya_naberezhnaya/206821868201/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;"></a><a href="https://yandex.ru/maps/15/tula/category/landmark_attraction/89683368508/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:14px;">Достопримечательность в Туле</a><iframe src="https://yandex.ru/map-widget/v1/?ll=37.620508%2C54.195835&mode=poi&poi%5Bpoint%5D=37.621148%2C54.196220&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D206821868201&z=18.63" width="560" height="400" frameborder="1" allowfullscreen="true" style="position:relative;border-radius:0.75rem;width:99.9%;height:99.9%;border:none;"></iframe></div>
         </div>
     </div>
+    <div class="last_pre">
+            <div class="left"></div>
+            <div class="right"></div>
+    </div>
+
 
 
     
