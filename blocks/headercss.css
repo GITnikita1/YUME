@@ -69,19 +69,21 @@ html ::-webkit-scrollbar {
 }
 
 .user {
-    color: var(--white);
-    border: var(--white) 1px solid;
-    border-radius: 20px;
-    padding: 5px;
+    color: var(--green);
+    border: var(--green) 0.1rem solid;
+    border-radius: 1rem;
+    padding: 1rem;
 }
 
 .user:hover {
-    color: var(--blue);
-    border: var(--blue) 1px solid;
+    border-radius: 1rem;
+    padding: 1rem;
+    color: var(--green);
+    border: var(--green) 0.1rem solid;
     cursor: pointer;
 }
 
 .string:hover {
-    color: var(--blue);
+    color: var(--green);
     cursor: pointer;
 }

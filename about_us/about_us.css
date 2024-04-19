@@ -1,0 +1,62 @@
+.spine {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin-inline: 15%;
+    margin-bottom: 10rem;
+}
+
+h3 {
+    font-size: 3rem;
+    color: #FF598F;
+}
+
+.text {
+    p {
+        color: white;
+        font-size: 1.5rem;
+    }
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1.5rem;
+    width: 100%;
+    height: 20rem;
+}
+
+.left {
+    border-radius: 1rem;
+    background-color: #FF598F;
+    line-height: 1.5rem;
+}
+
+.right {
+    border-radius: 1rem;
+    background-color: aqua;
+    line-height: 1.5rem;
+}
+
+.text2 {
+    font-size: 1.2rem;
+}
+
+.last {
+    display: flex;
+    flex-direction: row;
+    height: 25rem;
+    width: 100%;
+}
+
+.left2 {
+    height: 100%;
+    width: 60%;
+    background-color: #01DDDD;
+}
+
+.right2 {
+    height: 100%;
+    width: 40%;
+    background-color: #C7F465;
+}
