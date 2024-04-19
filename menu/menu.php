@@ -24,9 +24,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>200₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>ЯМИ БУРГЕР</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -34,9 +34,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>250₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>ДВОЙНОЙ СТИЛЬНЫЙ</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -44,9 +44,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>120₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>ПРОСТО БУРГЕР</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -54,9 +54,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>180₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>СТИЛЬНЫЙ БУРГЕР</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -64,9 +64,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>270₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>СОЧНЫЙ ВАЙБ</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -74,9 +74,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>150₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>ИТАЛЬЯНО МИЛАНО БУРГЕР</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -84,9 +84,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>290₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>СЕКРЕТНЫЙ БУРГЕР</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -98,9 +98,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>100₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>КАРТОШКА ФРИИИИИ</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -108,9 +108,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>140₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>НАГГЕТСЫ</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -118,9 +118,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>160₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>СЫЫЫЫРНЫЕ КОЛЬЦА</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -128,9 +128,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>120₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>НАЧЧОС МЕКСИКАНО</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -142,9 +142,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>140₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>ШОКОЛАДНЫЕ ПЕЧЕНЬЯ</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -152,9 +152,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>100₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>МОРОЖЕННОЕ</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -162,9 +162,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>130₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>КЛУБНИЧНОЕ ПИРОЖНОЕ</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -172,9 +172,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>150₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>МАКАРОНЫ</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -186,9 +186,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>100₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>ДОБРЫЙ НАПИТОК</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -196,9 +196,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>160₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>МОЛОЧНЫЙ КОКТЕЙЛЬ</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -206,9 +206,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>80₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>ПИТЬЕВАЯ ВОДА</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
@@ -216,9 +216,9 @@
                 <div class="box">
                     <div class="item">
                         <div class="picture"></div>
-                        <div class="cost"><p>200 рублей</p></div>
+                        <div class="cost"><p>110₽</p><div class="btn"><p>+</p></div></div>
                     </div>
-                    <h4>NAME</h4>
+                    <h4>ФРУКТОВЫЙ СОК</h4>
                     <div class="description">
                         <p>Lorem, ipsum dolor.</p>
                     </div>
