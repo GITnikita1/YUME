@@ -19,7 +19,7 @@
         </div>
         <div id="blockUp" class="blockTwo">
             <h2 class="heading">РЕГИСТРАЦИЯ</h2>
-            <p class="text">Если же у Вас нет акаунта, то быстрее регистрируйся!</p>
+            <p class="text">Если у Вас нет акаунта, то быстрее регистрируйся!</p>
         </div>
     </div>
     <script src="/JS/OneListJS.js"></script>
