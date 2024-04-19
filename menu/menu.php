@@ -10,107 +10,221 @@
 </head>
 <body>
     <?php include "..\blocks\header.php"; ?>
+    <div class="defender">
+        <div class="spine">
 
-    <div class="spine">
+            <div class="greating">
+                <h2>МЕНЮ НЕДЕЛИ</h2>
+                <p style="font-size: 3.5rem;"><span class="left">15 АПРЕЛЯ</span><span> : </span><span class="right">22 АПРЕЛЯ</span></p>
+                <p>Наслаждайтесь вкусом Недели! Бургерная ЯМИ. представляет новые, ошеломляющие вкусовые бургеры каждую неделю. Не можете оторваться от любимого? Не волнуйтесь, мы возвращаем их для вашего повторного удовольствия. Приходите сегодня и попробуйте разницу!</p>
+            </div>
 
-        <div class="greating">
-            <h2>МЕНЮ НЕДЕЛИ</h2>
-            <p style="font-size: 3.5rem;"><span class="left">15 АПРЕЛЯ</span><span> : </span><span class="right">22 АПРЕЛЯ</span></p>
-            <p>Наслаждайтесь вкусом Недели! Бургерная ЯМИ. представляет новые, ошеломляющие вкусовые бургеры каждую неделю. Не можете оторваться от любимого? Не волнуйтесь, мы возвращаем их для вашего повторного удовольствия. Приходите сегодня и попробуйте разницу!</p>
+            <div class="container .seven">
+                <h3>БУРГЕРЫ</h3>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <h3>ГАРНИРЫ</h3>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <h3>ДЕСЕРТЫ</h3>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <h3>НАПИТКИ</h3>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="item">
+                        <div class="picture"></div>
+                        <div class="cost"><p>200 рублей</p></div>
+                    </div>
+                    <h4>NAME</h4>
+                    <div class="description">
+                        <p>Lorem, ipsum dolor.</p>
+                    </div>
+                </div>
+            </div>
         </div>
-
-        <div class="container .seven">
-            <h3>Бургеры</h3>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-        </div>
-
-        <div class="container">
-            <h3>Бургеры</h3>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-        </div>
-
-        <div class="container">
-            <h3>Бургеры</h3>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-        </div>
-
-        <div class="container">
-            <h3>Бургеры</h3>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-            <div class="box">
-                <div class="picture"></div>
-                <div class="cost"></div>
-            </div>
-        </div>
-
     <?php include '..\blocks\footer.php'; ?>
 </body>
 </html>
