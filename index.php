@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:wght@300&display=swap" rel="stylesheet">
 </head>
 <body class="body">
-    <img src="/img/burgerBackground.jpg" alt="background" class="imgBurger">
+    <img src="/img/burgerBackground.jpg" alt="background" class="imgBurger" width="100%" height="100%">
     <div class="In_Up">
         <div id="blockIn" class="blockTwo">
             <h2 class="heading">ВХОД</h2>
